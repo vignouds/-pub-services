@@ -1,7 +1,7 @@
-var pubServices = require('./services/pubs.services')
+import *  as pubServices from "./services/pubs.services"
 
 module.exports = {
   services:{
     pubServices: pubServices
   }
-}
+};

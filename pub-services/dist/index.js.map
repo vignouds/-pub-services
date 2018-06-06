@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["pubServices","module","exports","services"],"mappings":";;AAAA;;IAAaA,W;;;;AAEbC,OAAOC,OAAP,GAAiB;AACfC,YAAS;AACPH,iBAAaA;AADN;AADM,CAAjB","file":"index.js","sourcesContent":["import *  as pubServices from \"./services/pubs.services\"\r\n\r\nmodule.exports = {\r\n  services:{\r\n    pubServices: pubServices\r\n  }\r\n};\r\n"]}

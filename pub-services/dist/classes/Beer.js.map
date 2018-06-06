@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/classes/Beer.js"],"names":["Beer","type","name"],"mappings":";;;;;;;;IAAaA,I,WAAAA,I,GACX,cAAYC,IAAZ,EAAkBC,IAAlB,EAAwB;AAAA;;AACtB,OAAKD,IAAL,GAAUA,IAAV;AACA,OAAKC,IAAL,GAAUA,IAAV;AACD,C","file":"Beer.js","sourcesContent":["export class Beer {\r\n  constructor(type, name) {\r\n    this.type=type\r\n    this.name=name\r\n  }\r\n}\r\n"]}

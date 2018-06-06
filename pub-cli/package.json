@@ -13,8 +13,8 @@
     "commander": "^2.15.1",
     "pub-services": "../pub-services"
   },
-  "bin":{
-    "pub-cli":"bin/index.js"
+  "bin": {
+    "pub-cli": "bin/index.js"
   },
-  "preferGlobal":"true"
+  "preferGlobal": "true"
 }
